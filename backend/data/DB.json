@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1775622752787,
+    "nombre": "Miguelito 2",
+    "telefono": "4492869999",
+    "email": "st49232@utr.edu.mx",
+    "categoria": "Familia",
+    "foto": "https://www.bing.com/images/search?view=detailV2&ccid=mVY%2f1foA&id=F9BBAF7578412CACE37F8F37216BD7A72F9B7EA0&thid=OIP.mVY_1foArJpxvgEUq-AydQHaD_&mediaurl=https%3a%2f%2fd2yoo3qu6vrk5d.cloudfront.net%2fimages%2f20230103123047%2fcropped-fotojet-67-3.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.99563fd5fa00ac9a71be0114abe03275%3frik%3doH6bL6fXayE3jw%26pid%3dImgRaw%26r%3d0&exph=570&expw=1058&q=GATOS&FORM=IRPRST&ck=6F8C7D22EE0F738840204E9D7448C113&selectedIndex=2&itb=0",
+    "notas": "cc",
+    "favorito": false,
+    "fechaCreacion": "2026-04-08T04:32:32.787Z"
+  },
+  {
+    "id": 1775655572520,
+    "nombre": "Miguelito 11",
+    "telefono": "44928699994444",
+    "email": "st11333@utr.edu.mx",
+    "categoria": "Amigos",
+    "foto": "https://www.bing.com/images/search?view=detailV2&ccid=mVY%2f1foA&id=F9BBAF7578412CACE37F8F37216BD7A72F9B7EA0&thid=OIP.mVY_1foArJpxvgEUq-AydQHaD_&mediaurl=https%3a%2f%2fd2yoo3qu6vrk5d.cloudfront.net%2fimages%2f20230103123047%2fcropped-fotojet-67-3.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.99563fd5fa00ac9a71be0114abe03275%3frik%3doH6bL6fXayE3jw%26pid%3dImgRaw%26r%3d0&exph=570&expw=1058&q=GATOS&FORM=IRPRST&ck=6F8C7D22EE0F738840204E9D7448C113&selectedIndex=2&itb=0",
+    "notas": "dddddddddddddddddddddddddddddddddddddddddd",
+    "favorito": false,
+    "fechaCreacion": "2026-04-08T13:39:32.520Z"
+  },
+  {
+    "id": 1775656772680,
+    "nombre": "Miguelito tresss 3",
+    "telefono": "44928699994444",
+    "email": "st49111333@utr.edu.mx",
+    "categoria": "Trabajo",
+    "foto": "https://www.bing.com/images/search?view=detailV2&ccid=mVY%2f1foA&id=F9BBAF7578412CACE37F8F37216BD7A72F9B7EA0&thid=OIP.mVY_1foArJpxvgEUq-AydQHaD_&mediaurl=https%3a%2f%2fd2yoo3qu6vrk5d.cloudfront.net%2fimages%2f20230103123047%2fcropped-fotojet-67-3.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.99563fd5fa00ac9a71be0114abe03275%3frik%3doH6bL6fXayE3jw%26pid%3dImgRaw%26r%3d0&exph=570&expw=1058&q=GATOS&FORM=IRPRST&ck=6F8C7D22EE0F738840204E9D7448C113&selectedIndex=2&itb=0",
+    "notas": "w¿extra",
+    "favorito": false,
+    "fechaCreacion": "2026-04-08T13:59:32.680Z"
+  }
+]
